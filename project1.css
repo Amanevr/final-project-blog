@@ -8,10 +8,10 @@
 	background:#0B5345;
 	text-align:center;
 	color:white;
-	height:35px;
+	height:50px;
 	font-family:sanserif;
 	font-size:50px;
-	padding:65px;
+	padding:20px;
 	
 }
 
@@ -46,4 +46,22 @@ body{
 }
 .image2{
 	padding-left:180px;
+}
+.colorimageref{
+	color:#2980B9;
+}
+.colorimageref2{
+	padding-top:5px;padding-bottom:20px;
+	color:#2980B9
+}
+.reference{
+	padding-top:30px;
+	padding-bottom:20px;
+	color:#2980B9
+}
+
+.topicRef{
+	margin-top:50px;
+	font-size:25px;
+	background:#F1C40F;
 }
