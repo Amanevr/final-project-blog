@@ -1,81 +1,121 @@
 *{
-	padding:0;
-	margin:0;
-	
+	padding:0px;
+	margin:0px;
+
 }
 
 
+
 .menu-bar{
-	background:#0B5345;
+	background: #086b00;
 	text-align:center;
 	color:white;
 	font-family:sanserif;
 	font-size:40px;
-	padding:20px;
+	padding:15px;
+	margin :20px;
 	width: 100%;
 	height: auto;
-	
+	border-radius: 25px;
+	text-shadow: 2px 2px 4px #000000;
+
 }
 
 .image{
 	width: 100%;
 	height: auto;
 	text-align: center;
+	margin-top:15px;
+
+
+}
+
+.img6{
+   border-radius: 8px;
+   float: right;
+   margin-top:30px;
+   font-size:25px;
+   width: 100%;
+   height: auto;
+   text-align: justify
+
+}
+.pa{
+   margin-top:30px;
+   font-size:25px;
+   width: 100%;
+   height: auto;
+   text-align: justify
 }
 
 .para{
-	margin-top:15px;
+	margin-top:25px;
 	font-size:25px;
 	width: 100%;
 	height: auto;
 	text-align: justify;
 }
-.p{
-	margin:15px;
-}
+
+
 .topic{
-	margin-top:15px;
+	margin-top:30px;
 	font-size:25px;
-	background:#F1C40F;
+	color:white;
+	background: #59bd00;
 	width: 100%;
 	height: auto;
-	text-align: justify;
+	padding:20px;
+	text-align: center;
+	border-radius: 25px;
+	text-shadow: 2px 2px 4px #000000;
 
 }
-body{
+.body{
 	padding-left:100px;
 	padding-right:100px;
 	font-size:25px;
+	text-align: justify;
 }
 .subtopic{
-	background:#117864;
+	background: #738c00;
 	color:white;
-	width:700px;
+	width:100%;
 	margin-bottom:10px;
 	margin-top:40px;
+	padding:8px;
+	border-radius: 25px;
+	text-shadow: 2px 2px 4px #000000;
 }
 
 
 .refe{
 	width: 100%;
+	color:white;
 	height: auto;
 	padding-top:30px;
 	padding-bottom:20px;
-	color:#2980B9
+	color:#009900;
 }
 
 .reference{
+
 	width: 100%;
 	height :auto;
+	font-size:15px;
 	padding-top:30px;
-	padding-bottom:20px;
-	color:#2980B9
+	padding: 10px;
+	color:#2980B9;
+
+
 }
 
 .topicRef{
-	margin-top:50px;
-	font-size:25px;
-	background:#F1C40F;
+	margin-top:130px;
+	padding:10px;
+	font-size:30px;
+	text-align:left;
+
+
 }
 
 .colorimageref2{
@@ -83,9 +123,15 @@ body{
 	padding-bottom:20px;
 	color:#2980B9;
 	font-size;5px;
+
+
 }
-	
-.colorimageref{
-	color:#2980B9;
+
+.blank{
+   padding: 20px;
+   margin-top:30px;
+   font-size:25px;
+   width: 100%;
+   height: auto;
+   text-align: justify
 }
-	
